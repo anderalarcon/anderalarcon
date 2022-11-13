@@ -13,4 +13,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anderalarcon&show_icons=true&locale=en&layout=compact" alt="anderalarcon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anderalarcon&show_icons=true&locale=en" alt="anderalarcon" /></p>
