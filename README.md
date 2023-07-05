@@ -1,5 +1,5 @@
 <h1 align="center">Hellooooooooow there, you can callme Ander 😎😎😎</h1>
-<h3 align="center">Peruvian Software Developer</h3>
+<h3 align="center">Peruvian Software Engineer & Full Stack Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
